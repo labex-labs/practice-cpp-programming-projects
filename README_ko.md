@@ -14,12 +14,12 @@ C++ 는 고성능의 강력한 프로그래밍 언어입니다. 이 스킬 트�
 
 |   인덱스 | 이름                                                                                                                  | 난이도   | 연습                                                                                          |
 |----------|-----------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
-|        1 | [OpenGL 로 태양계 만들기](https://labex.io/ko/courses/project-creating-the-solar-system-in-opengl)                    | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-creating-the-solar-system-in-opengl)       |
-|        2 | [C++ 로 간단한 Docker 컨테이너 만들기](https://labex.io/ko/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-creating-a-simple-docker-container-in-cpp) |
+|        1 | [OpenGL 로 태양계 만들기](https://labex.io/ko/courses/project-creating-the-solar-system-in-opengl)                    | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-creating-the-solar-system-in-opengl)       |
+|        2 | [C++ 로 간단한 Docker 컨테이너 만들기](https://labex.io/ko/courses/project-creating-a-simple-docker-container-in-cpp) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## 더 보기
 
 - 🔗 [C++ 자세히 알아보기](https://labex.io/ko/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
