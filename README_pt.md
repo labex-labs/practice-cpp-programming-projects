@@ -14,12 +14,12 @@ C++ é uma linguagem de programação poderosa e de alto desempenho. Esta Skill 
 
 |   Índice | Nome                                                                                                                        | Dificuldade   | Prática                                                                                         |
 |----------|-----------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------|
-|        1 | [Criando o Sistema Solar em OpenGL](https://labex.io/pt/courses/project-creating-the-solar-system-in-opengl)                | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-creating-the-solar-system-in-opengl)       |
-|        2 | [Criando um Contêiner Docker Simples em C++](https://labex.io/pt/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-creating-a-simple-docker-container-in-cpp) |
+|        1 | [Criando o Sistema Solar em OpenGL](https://labex.io/pt/courses/project-creating-the-solar-system-in-opengl)                | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-creating-the-solar-system-in-opengl)       |
+|        2 | [Criando um Contêiner Docker Simples em C++](https://labex.io/pt/courses/project-creating-a-simple-docker-container-in-cpp) | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## Mais
 
 - 🔗 [C++ Saiba mais sobre](https://labex.io/pt/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Projetos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cursos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-courses)
 
