@@ -12,14 +12,14 @@ C++ is a high - performance and powerful programming language. This Skill Tree o
 
 ## Exercises
 
-|   Index | Name                                                                                                                       | Difficulty   | Practice                                                                                      |
-|---------|----------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------|
-|       1 | [Creating the Solar System in OpenGL](https://labex.io/en/courses/project-creating-the-solar-system-in-opengl)             | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-creating-the-solar-system-in-opengl)       |
-|       2 | [Creating a Simple Docker Container in C++](https://labex.io/en/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-creating-a-simple-docker-container-in-cpp) |
+|   Index | Name                                                                                                                    | Difficulty   | Practice                                                                                   |
+|---------|-------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------|
+|       1 | [Creating the Solar System in OpenGL](https://labex.io/courses/project-creating-the-solar-system-in-opengl)             | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-creating-the-solar-system-in-opengl)       |
+|       2 | [Creating a Simple Docker Container in C++](https://labex.io/courses/project-creating-a-simple-docker-container-in-cpp) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## More
 
-- 🔗 [C++ Learn more about](https://labex.io/en/skilltrees/cpp)
+- 🔗 [C++ Learn more about](https://labex.io/skilltrees/cpp)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
