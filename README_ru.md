@@ -14,12 +14,12 @@ C++ — это высокопроизводительный и мощный яз
 
 |   Индекс | Название                                                                                                                      | Сложность   | Практика                                                                                               |
 |----------|-------------------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
-|        1 | [Создание Солнечной системы в OpenGL](https://labex.io/ru/courses/project-creating-the-solar-system-in-opengl)                | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-creating-the-solar-system-in-opengl)       |
-|        2 | [Создание простого Docker - контейнера на C++](https://labex.io/ru/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-creating-a-simple-docker-container-in-cpp) |
+|        1 | [Создание Солнечной системы в OpenGL](https://labex.io/ru/courses/project-creating-the-solar-system-in-opengl)                | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-creating-the-solar-system-in-opengl)       |
+|        2 | [Создание простого Docker - контейнера на C++](https://labex.io/ru/courses/project-creating-a-simple-docker-container-in-cpp) | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## Больше
 
 - 🔗 [C++ Узнать больше о](https://labex.io/ru/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
 
