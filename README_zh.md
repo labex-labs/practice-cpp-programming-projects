@@ -14,12 +14,12 @@ C++ 是一种高性能、功能强大的编程语言。本技能树为学习 C++
 
 |   序号 | 名称                                                                                                                 | 难度   | 练习                                                                                         |
 |--------|----------------------------------------------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------|
-|      1 | [使用 OpenGL 创建太阳系](https://labex.io/zh/courses/project-creating-the-solar-system-in-opengl)                    | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-creating-the-solar-system-in-opengl)       |
-|      2 | [使用 C++ 创建一个简单的 Docker 容器](https://labex.io/zh/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-creating-a-simple-docker-container-in-cpp) |
+|      1 | [使用 OpenGL 创建太阳系](https://labex.io/zh/courses/project-creating-the-solar-system-in-opengl)                    | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-creating-the-solar-system-in-opengl)       |
+|      2 | [使用 C++ 创建一个简单的 Docker 容器](https://labex.io/zh/courses/project-creating-a-simple-docker-container-in-cpp) | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## 更多
 
 - 🔗 [C++ 了解更多](https://labex.io/zh/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
