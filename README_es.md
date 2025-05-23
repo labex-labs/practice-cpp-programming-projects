@@ -14,12 +14,12 @@ C++ es un lenguaje de programación potente y de alto rendimiento. Este Skill Tr
 
 |   Índice | Nombre                                                                                                                          | Dificultad   | Práctica                                                                                                |
 |----------|---------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
-|        1 | [Creación del Sistema Solar en OpenGL](https://labex.io/es/courses/project-creating-the-solar-system-in-opengl)                 | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-creating-the-solar-system-in-opengl)       |
-|        2 | [Creación de un contenedor Docker simple en C++](https://labex.io/es/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-creating-a-simple-docker-container-in-cpp) |
+|        1 | [Creación del Sistema Solar en OpenGL](https://labex.io/es/courses/project-creating-the-solar-system-in-opengl)                 | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-creating-the-solar-system-in-opengl)       |
+|        2 | [Creación de un contenedor Docker simple en C++](https://labex.io/es/courses/project-creating-a-simple-docker-container-in-cpp) | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## Más
 
 - 🔗 [C++ Aprende más sobre](https://labex.io/es/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Proyectos de Programación Increíbles](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cursos de Programación Increíbles](https://github.com/labex-labs/awesome-programming-courses)
 
