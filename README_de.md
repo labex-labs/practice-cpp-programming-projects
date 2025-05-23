@@ -14,12 +14,12 @@ C++ ist eine leistungsstarke und effiziente Programmiersprache. Dieser Skill Tre
 
 |   Index | Name                                                                                                                                | Schwierigkeit   | Übung                                                                                             |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|
-|       1 | [Erstellen des Sonnensystems in OpenGL](https://labex.io/de/courses/project-creating-the-solar-system-in-opengl)                    | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-creating-the-solar-system-in-opengl)       |
-|       2 | [Erstellen eines einfachen Docker-Containers in C++](https://labex.io/de/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-creating-a-simple-docker-container-in-cpp) |
+|       1 | [Erstellen des Sonnensystems in OpenGL](https://labex.io/de/courses/project-creating-the-solar-system-in-opengl)                    | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-creating-the-solar-system-in-opengl)       |
+|       2 | [Erstellen eines einfachen Docker-Containers in C++](https://labex.io/de/courses/project-creating-a-simple-docker-container-in-cpp) | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## Mehr
 
 - 🔗 [C++ Erfahren Sie mehr über](https://labex.io/de/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
 
