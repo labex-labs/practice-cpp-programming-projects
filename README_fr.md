@@ -14,12 +14,12 @@ C++ est un langage de programmation puissant et performant. Cet arbre de compét
 
 |   Index | Nom                                                                                                                           | Difficulté   | Pratique                                                                                             |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
-|       1 | [Création du Système solaire en OpenGL](https://labex.io/fr/courses/project-creating-the-solar-system-in-opengl)              | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-the-solar-system-in-opengl)       |
-|       2 | [Création d'un simple conteneur Docker en C++](https://labex.io/fr/courses/project-creating-a-simple-docker-container-in-cpp) | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-simple-docker-container-in-cpp) |
+|       1 | [Création du Système solaire en OpenGL](https://labex.io/fr/courses/project-creating-the-solar-system-in-opengl)              | Débutant     | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-the-solar-system-in-opengl)       |
+|       2 | [Création d'un simple conteneur Docker en C++](https://labex.io/fr/courses/project-creating-a-simple-docker-container-in-cpp) | Débutant     | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ## Plus
 
 - 🔗 [C++ En savoir plus sur](https://labex.io/fr/skilltrees/cpp)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Projets de Programmation Formidables](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cours de Programmation Formidables](https://github.com/labex-labs/awesome-programming-courses)
 
